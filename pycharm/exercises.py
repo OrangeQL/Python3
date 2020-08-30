@@ -18,6 +18,8 @@ else:
         if month > i:
             n += j
     n += day
+
+#456789
 print(n)
 time2 = time.ctime()
 t2 = time.time()
@@ -25,3 +27,6 @@ print(time1)
 print(time2)
 print(t2-t1)
 #123456
+
+
+gjhkjfdghjk空间很过分的话就哭了；
