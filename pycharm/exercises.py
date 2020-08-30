@@ -27,3 +27,6 @@ print(time1)
 print(time2)
 print(t2-t1)
 #123456
+
+
+gjhkjfdghjk空间很过分的话就哭了；
