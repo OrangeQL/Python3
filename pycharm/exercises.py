@@ -1,3 +1,4 @@
+#上课
 import time
 time1 = time.ctime()
 t1 = time.time()
